@@ -36,6 +36,17 @@ C系列语言有接触。
 ```
 [github源码地址](https://github.com/HackerTheWorld/Spader)
 
-### Support or Contact
+### 基于java的word文档操作转换功能
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+采用apache开发的二次编程
+
+```markdown
+采用java基于apache工具包的二次开发
+
+- filecopy.doc()用于获取word文档中的表格的内容
+- 根据文件的后缀名判断是否为doc或者docx文件。
+- WordToHtmlAction.Word2007ToHtml()实现对docx转换为html文件并在网页上直接展示
+- WordToHtmlAction.Word2003ToHtml()。。。。
+
+```
+[github源码地址](https://github.com/HackerTheWorld/word)
