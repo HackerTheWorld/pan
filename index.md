@@ -1,4 +1,4 @@
-## 潘凌云的个人主页
+## HackerTheWorld的个人主页
 
 主要接收java web项目，完成项目前后端，android项目，服务器端编程。完成4个项目均以上线。现在学习python神经网络方面的学习。以上项目都在linux平台开发。
 C系列语言有接触。
@@ -20,9 +20,21 @@ C系列语言有接触。
 
 [github源码地址](https://github.com/HackerTheWorld/scanEQInfo)
 
-### Jekyll Themes
+### 基于java的网络爬虫
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackerTheWorld/pan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+定向网络爬虫
+
+```markdown
+用java完成的定向聚焦网络爬虫
+
+- 从出对列中取出url，采用httpclient下载网页。并为每一个爬虫开放一个线程。
+- 将下载的页面转换成node数据格式，提取每一个href，src标签中的地址。
+- 采用md5压缩算法将访问过的地址放入出队列，并根据出入队列判断是否访问过。
+- 在提取完href和src后生成doom树，作为模板。
+- 将提取的数据存放入bekerly DB。
+
+```
+[github源码地址](https://github.com/HackerTheWorld/Spader)
 
 ### Support or Contact
 
