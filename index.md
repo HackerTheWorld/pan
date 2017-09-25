@@ -1,8 +1,7 @@
 ## 潘凌云的个人主页
 
-You can use the [editor on GitHub](https://github.com/HackerTheWorld/pan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主要接收java web项目，完成项目前后端，android项目，服务器端编程。完成4个项目均以上线。现在学习python神经网络方面的学习。以上项目都在linux平台开发。
+C系列语言有接触。
 
 ### Markdown
 
