@@ -16,14 +16,9 @@ C系列语言有接触。
 - hanlder用来实现主线程和进程之间的渲染。
 - android采用list[map]格式的json来实现前后端数据的通信。
 
-1. github源码地址(https://github.com/HackerTheWorld/scanEQInfo)
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+github源码地址(https://github.com/HackerTheWorld/scanEQInfo)
 
 ### Jekyll Themes
 
