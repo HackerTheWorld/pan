@@ -18,7 +18,7 @@ C系列语言有接触。
 
 ```
 
-github源码地址(https://github.com/HackerTheWorld/scanEQInfo)
+[github源码地址](https://github.com/HackerTheWorld/scanEQInfo)
 
 ### Jekyll Themes
 
