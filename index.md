@@ -3,9 +3,9 @@
 主要接收java web项目，完成项目前后端，android项目，服务器端编程。完成4个项目均以上线。现在学习python神经网络方面的学习。以上项目都在linux平台开发。
 C系列语言有接触。
 
-### Markdown
+### 通过扫码方式完成货物出入库的记录
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+为某公司开发的方便仓库管理人员对货物的出入库的盘点，后端采用php方法实现对mysql数据库的操作。android端采用广播方式实现调用扫码接口，每一个action都保证彻底关闭，方式防止应广播带来的数据重复发送。
 
 ```markdown
 Syntax highlighted code block
